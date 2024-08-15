@@ -47,7 +47,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sohbetikidebir")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sohbetikidebir")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "None")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
 
 # Time after which you're assistant account will leave chats automatically.
 
@@ -92,21 +92,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
+    "START_IMG_URL", "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
+    "PING_IMG_URL", "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 )
-PLAYLIST_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-STATS_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-TELEGRAM_AUDIO_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-TELEGRAM_VIDEO_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-STREAM_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SOUNCLOUD_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-YOUTUBE_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SPOTIFY_ARTIST_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SPOTIFY_ALBUM_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
-SPOTIFY_PLAYLIST_IMG_URL = "https://photos.app.goo.gl/gdWUHDSFDMntN1wVA"
+PLAYLIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+STATS_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+TELEGRAM_AUDIO_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+TELEGRAM_VIDEO_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+STREAM_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SOUNCLOUD_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+YOUTUBE_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_ARTIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_ALBUM_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_PLAYLIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 
 
 def time_to_seconds(time):
