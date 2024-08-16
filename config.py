@@ -92,21 +92,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
+    "START_IMG_URL", "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
+    "PING_IMG_URL", "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 )
-PLAYLIST_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-STATS_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-TELEGRAM_AUDIO_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-TELEGRAM_VIDEO_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-STREAM_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-SOUNCLOUD_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-YOUTUBE_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-SPOTIFY_ARTIST_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-SPOTIFY_ALBUM_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
-SPOTIFY_PLAYLIST_IMG_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo2pvt1D14-cp4ChdEBSukZC55OCmhv8KIsKH8DtDvg-o2aB76ON7CN6_&s=10"
+PLAYLIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+STATS_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+TELEGRAM_AUDIO_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+TELEGRAM_VIDEO_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+STREAM_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SOUNCLOUD_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+YOUTUBE_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_ARTIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_ALBUM_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
+SPOTIFY_PLAYLIST_IMG_URL = "https://photos.app.goo.gl/RGsiHThq6F87Zkta9"
 
 
 def time_to_seconds(time):
